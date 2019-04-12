@@ -24,7 +24,9 @@
 
 }
 
-
+.show {
+    display: block;
+}
 
 /* Next & previous buttons */
 
